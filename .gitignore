@@ -1,0 +1,6 @@
+# Ignore build artifacts
+*.o
+*.a
+*.so
+main_static
+main_shared
